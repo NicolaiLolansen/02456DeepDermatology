@@ -13,7 +13,7 @@ ACNE VULGARIS FROM ACNE ROSACEA WITH DEEP CONVOLUTIONAL NEURAL NETWORKS
 
 Authors:
 * s134859 Nicolai Mogensen
-* s134569 Tobias Slot Jensen
+* s134569 Tobias Slott Jensen
 * s144242 David Frich Hansen
 
 Supervisors:
